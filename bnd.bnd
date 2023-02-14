@@ -1,0 +1,5 @@
+Bundle-Name: ManualPortlet
+Bundle-SymbolicName: com.tokio.cotizador.ManualPortlet
+Bundle-Version: 1.0.0
+
+
